@@ -6,16 +6,38 @@ Multi-model deep learning system for agricultural disease classification using s
 ## Project Structure
 .
 ├── main.ipynb                    # Main implementation notebook
+
+
 ├── mydatasets.py                 # Custom dataset class
+
+
 ├── paddy_disease_train.csv       # Training dataset metadata
+
+
 ├── rice_leaf_disease_images.csv  # Rice disease dataset metadata
+
+
 ├── paddy_train_images/           # Training images
+
+
 ├── Rice Leaf Disease Images/     # Rice disease images
+
+
 ├── test_images/                  # Test dataset
+
+
 ├── transformer_model.pth         # Trained model weights
+
+
 ├── Project_Report.pdf            # Comprehensive project report
+
+
 ├── Test_Labels_using_CNN.csv     # CNN model predictions
+
+
 ├── Test_Labels_using_Transformer.csv # Transformer model predictions
+
+
 └── README.md                     # This file
 
 ## Dataset
