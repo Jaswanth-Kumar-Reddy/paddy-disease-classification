@@ -44,11 +44,12 @@ paddy-rice-disease-classification/
 
 └── README.md                     # This file
 
-````
+
 
 ## 🚀 Quickstart
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/<your-username>/paddy-rice-disease-classification.git
 cd paddy-rice-disease-classification
