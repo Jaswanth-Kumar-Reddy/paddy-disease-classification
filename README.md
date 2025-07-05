@@ -84,8 +84,6 @@ Multi-model deep learning system for agricultural disease classification using s
 2. Open `main.ipynb` in Jupyter Notebook
 3. Run all cells to train models and generate predictions
 
-## Model Performance
-Detailed performance metrics and comparisons are available in `Project_Report.pdf`.
 
 ## Author
 Bindela Jaswanth Kumar Reddy
