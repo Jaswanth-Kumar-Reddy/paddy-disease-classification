@@ -61,6 +61,13 @@ Multi-model deep learning system for agricultural disease classification using s
 - Generated predictions for 3,469 test images
 - Scalable architecture for production deployment
 
+## Metrics & Analysis
+- See Project_Report.pdf for:
+- Comparative accuracy, precision, recall graphs
+- ROC curves & confusion matrices
+- Hyperparameter tuning rationale
+- Final model recommendations
+
 ## Dependencies
 - PyTorch >= 1.9.0
 - torchvision >= 0.10.0
